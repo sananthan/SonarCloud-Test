@@ -7,5 +7,3 @@ PyJWT
 pyotp
 qrcode
 requests
-
-Testing pull request 
